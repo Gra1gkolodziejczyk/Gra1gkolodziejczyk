@@ -8,5 +8,9 @@
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+ <div>
 [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=Gra1gkolodziejczyk&layout=compact)](https://github.com/Gra1gkolodziejczyk/Gra1gkolodziejczyk)
+ 
+ Je maitrise comme language de programmation : <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" height="30">
+ </div>
 
