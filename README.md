@@ -8,5 +8,5 @@
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={Gra1gkolodziejczyk}&theme=blue-green">
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=Gra1gkolodziejczyk&layout=compact)](https://github.com/Gra1gkolodziejczyk/Gra1gkolodziejczyk)
 
