@@ -8,5 +8,5 @@
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-https://github-readme-stats.vercel.app/api/top-langs/?Gra1gkolodziejczyk={Gra1gkolodziejczyk}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username={Gra1gkolodziejczyk}&theme=blue-green
 
