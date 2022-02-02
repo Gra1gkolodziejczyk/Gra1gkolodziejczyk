@@ -6,7 +6,7 @@
 - 📫 Ou me contacter : graig.kolodziejczyk@ynov.com
 - ⚡ Fun fact: J'ai créer ma micro-entreprise en début Janvier, j'ai un projet e-commerce a réaliser en -> Next.Js <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" width="120" height="30">
  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
+https://github-readme-stats.vercel.app/api/top-langs/?Gra1gkolodziejczyk={Gra1gkolodziejczyk}&theme=blue-green
 
