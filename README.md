@@ -35,7 +35,7 @@
 <td valign="top" width="50%">
 <div align="right">
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=Gra1gkolodziejczyk&layout=compact)](https://github.com/Gra1gkolodziejczyk/Gra1gkolodziejczyk)
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=Gra1gkolodziejczyk&layout=large)](https://github.com/Gra1gkolodziejczyk/Gra1gkolodziejczyk) 
  
  </div>
 
