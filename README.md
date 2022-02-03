@@ -32,7 +32,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="Php" height="50" />
 </div>
 
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 <div align="right">
 
 [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=Gra1gkolodziejczyk&layout=compact)](https://github.com/Gra1gkolodziejczyk/Gra1gkolodziejczyk)
