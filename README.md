@@ -5,12 +5,13 @@
 - 👯 Je cherche un **stage** d'une durée de **2 à 6 mois** afin de trouver une **alternance** pour ma **B3 informatique** dans le domaine du **développement Mobile** / **Developpement Web**
 - 📫 Ou me contacter : graig.kolodziejczyk@ynov.com
 - ⚡ Fun fact: J'ai créer ma **micro-entreprise** en début Janvier, j'ai un projet ```e-commerce``` en cours de production avec comme technologies : <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> enfin Next.js qui est une surcouche de ⚛️ je l'ai préconisé pour son optimisation d'images et SEO et sa capacité à pouvoir rendre une application rapide et fluide quelque soit sa taille, et le pour le back-end j'ai préconisé <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> car PHP est pour moi une valeur sûr pour la stabilité et la sécurité de l'application.
+- 🚀 Objectif ultime de ma futur carrière de Développeur : Freelance => Être indépendant financièrement ! 🚀
  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## My Skill Set  
 <table>
- <tr>
-  <td valign="top" width="33%">
+<tr>
+<td valign="top" width="33%">
 
 ### Frontend skill
 <div align="left">   
@@ -33,9 +34,8 @@
 
 <td valign="top" width="100%">
 <div align="right">
-
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=Gra1gkolodziejczyk&layout=compact)](https://github.com/Gra1gkolodziejczyk/Gra1gkolodziejczyk) 
- 
+[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=Gra1gkolodziejczyk&layout=compact)](https://github.com/Gra1gkolodziejczyk/Gra1gkolodziejczyk)
  </div>
-
 </table> 
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
