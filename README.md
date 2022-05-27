@@ -1,6 +1,6 @@
 ### Bonjour, Bienvenue sur mon Github 👋
 
-- 🔭 Je suis **développeur Front-end** avec un ```péché mignon``` pour l'environnement <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+- 🔭 Je suis **développeur Full-stack** avec un ```péché mignon``` pour l'environnement <img src="https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB">
 - 🌱 Je travaille quotidiennement sur ces technologies : <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/NextJs-323330?style=for-the-badge&logo=React&logoColor=0070f3"> pour le **web** et pour le **mobile** <img src="https://img.shields.io/badge/flutter-323330?style=for-the-badge&logo=flutter&logoColor=OxFF2196F3"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 - 👯 Je cherche un **stage** d'une durée de **2 à 6 mois** afin de trouver une **alternance** pour ma **B3 informatique** dans le domaine du **développement Mobile** / **Developpement Web**
 - 📫 Ou me contacter : graig.kolodziejczyk@ynov.com
